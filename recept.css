@@ -1,0 +1,53 @@
+h2 {
+	color: black;
+	font-size: 23px;
+	border: solid;
+	border-color: green;
+	text-align: center;
+	background-color: red;
+}
+h1 {
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	border: solid;
+	border-color: green;
+	background-color: red;
+
+
+
+}
+
+body {
+
+      background-image: url("hout.jpg"); 
+      background-size:1920px 1080x;
+      background-attachment: fixed;
+      font-style: italic;
+     
+      
+}
+
+p { 
+	color: white;
+	font-size: 20px;
+	text-align: center;
+
+
+
+}
+
+li {
+	color: white;
+	font-size: 20px;
+	text-align: left;
+
+}
+
+a {
+	color: white;
+	
+	
+}
+
+
