@@ -12,7 +12,7 @@
      <p>Roti is van oorsprong een Hindi woord en is de algemene benaming voor alle vormen van brood in grote delen van India, Pakistan, geheel Indonesië en geheel Maleisië. Meer specifiek worden hiermee alleen de ongerezen platte Indiase broden bedoeld zoals de Indiase naam, alu paratha en chapati. </p>
      <p>Met de emigratie van Hindoestanen uit India naar Suriname is ook de roti meegekomen. De "pannenkoek" die in Suriname (en Nederland) roti heet, wordt in India ook wel chapati genoemd. Het is een soort ongezoete broodpannenkoek die verschillende toevoegingen kan hebben: in de Surinaamse variant veelal gemalen gele spliterwten (roti dalbharie) of aardappelen (roti alubharie) en met smaakmakers als komijn en chilipeper. Voor de bereiding worden balletjes deeg (eventueel met additionele ingrediënten) uitgerold tot dunne "pannenkoeken" die op een zogeheten rotiplaat worden gebakken. De Surinaamse roti wordt met een aantal bijgerechten geserveerd zoals kousenband, aardappelen, hardgekookte eieren, knoflook, ui en verschillende soorten vlees (kip, eend, schaap), welke bijgerechten meestal gekruid worden met masala, een mengsel van gemalen specerijen vergelijkbaar met curry. Roti wordt in Suriname niet met tomaat gegeten. Het is gebruikelijk de roti met de handen te eten. Je breekt een stukje van het rotivel af om met het stukje in de hand de roti mix te pakken en op te eten. </p>
 
-		<h3><img src="roti.jpg" alt="roti"></h3>
+		<p><img src="roti.jpg" alt="roti"></p>
 
 		<h2> Voor de roti:</h2>
 
